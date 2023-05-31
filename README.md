@@ -1,1 +1,5 @@
-# PROJETO-DE-ALGORITMOS
+#include <stdio.h>
+
+int main(){
+	printf("HELLO WORLD");
+}
